@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "BigGoButton"
 include(":app")
+ 
